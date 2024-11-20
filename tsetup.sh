@@ -31,7 +31,7 @@ PACKAGES=(
 display_banner() {
   clear
   echo -e "${CYAN}"
-  figlet -c "Termux Setuping" | lolcat
+  figlet -c "T-Setup" | lolcat
   echo -e "${RESET}"
   echo -e "${GREEN}Welcome to the Termux Setup Tool Script By RK!${RESET}"
 }
