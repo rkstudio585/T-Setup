@@ -1,6 +1,6 @@
 #!/bin/bash
-pkg install figlet
-pkg install ruby
+pkg install figlet -y
+pkg install ruby -y
 gem install lolcat
 # Colors for terminal output
 GREEN="\033[1;32m"
