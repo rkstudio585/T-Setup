@@ -14,7 +14,7 @@ LOG_FILE="termux_setup.log"
 
 # Essential packages to install
 PACKAGES=(
-  bash coreutils curl wget git vim nano python python3 pip clang cmake make
+  bash coreutils root-repo x11-repo curl wget git vim nano python python3 pip clang cmake make
   build-essential openssh openssl php perl ruby golang nodejs tmux zsh htop
   net-tools termux-tools ncurses-utils speedtest-cli zip unzip tar gzip bzip2
   fish jq ffmpeg imagemagick figlet toilet sl lolcat cowsay neofetch
